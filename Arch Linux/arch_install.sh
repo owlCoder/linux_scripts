@@ -55,7 +55,7 @@ touch /etc/hosts
 # hosts file
 127.0.0.1	localhost
 ::1		    localhost
-127.0.1.1	leopard
+127.0.0.1	leopard
 
 # EFI
 pacman -S grub efibootmgr
